@@ -60,5 +60,5 @@ http://localhost:5173
 
 ## Developer Credit
 
-Made by Tanbir Nebir.
+Made by TANVIR NIBIR.
 Update the portfolio link inside `frontend/src/components/Footer.jsx`.
